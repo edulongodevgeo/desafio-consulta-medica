@@ -1,7 +1,7 @@
 # desafio-consulta-medica
 
-##CASO 02
-###Consulta médica
+## CASO 02
+### Consulta médica
 
 Um paciente ao agendar uma consulta médica em um consultório, deverá:
 
